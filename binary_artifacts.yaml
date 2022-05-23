@@ -1,6 +1,9 @@
 optConfig:
   optOutStrategy: true
   optOutRepos:
-  - rekor
   # rekor uses binary artifacts in tests/
+  - rekor
+  # sigstore-maven uses binary artifacts in .mvn and in src/test/
+  - sigstore-maven
+
 action: issue
