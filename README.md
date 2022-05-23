@@ -1,5 +1,5 @@
-# Example .allstar Quickstart Repository
+# .allstar Repository Configuration for Sigstore
 
-This repository can be forked into your organization as `.allstar` to quickly
-enable issue creation for all Allstar policies on all repositories with the
-default settings.
+This repository containts the configuration and policies for `.allstar`
+
+For more information: https://github.com/ossf/allstar
