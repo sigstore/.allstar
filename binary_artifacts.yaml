@@ -5,7 +5,5 @@ optConfig:
   - rekor
   # sigstore-maven uses binary artifacts in .mvn and in src/test/
   - sigstore-maven
-  # sigstore-java uses gradlew to build which requires binary in gradle/wrapper/
-  - sigstore-java
 
 action: issue
