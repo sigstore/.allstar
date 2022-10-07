@@ -5,5 +5,7 @@ optConfig:
   - rekor
   # sigstore-maven uses binary artifacts in .mvn and in src/test/
   - sigstore-maven
+  # timestamp-authority uses binary artifacts in hack/tools/
+  - timestamp-authority
 
 action: issue
