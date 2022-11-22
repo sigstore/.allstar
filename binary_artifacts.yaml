@@ -5,5 +5,7 @@ optConfig:
   - rekor
   # sigstore-maven uses binary artifacts in .mvn and in src/test/
   - sigstore-maven
+  # protobuf-specs uses binary artifacts java/gradle/wrapper/
+  - sigstore-maven
 
 action: issue
