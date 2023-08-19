@@ -1,2 +1,5 @@
 optConfig:
   optOutStrategy: true
+  optOutRepos:
+  - friends
+  - community
